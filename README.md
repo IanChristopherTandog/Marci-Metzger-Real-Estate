@@ -1,10 +1,15 @@
 # Marci Metzger Real Estate - Web Builder Assignment / Portfolio
 
 ## Overview
-This project was originally created as a **Web Builder assignment** for Luxury Presence, with the goal to **revamp the "Home" page** of a real estate website.  
-It has since evolved into a **personal portfolio project**, demonstrating modern web development skills using **React** and **Tailwind CSS**.
+This project was originally developed as a **Web Builder assignment** for Luxury Presence, with the goal to **revamp the "Home" page** of a real estate website.  
+It has since evolved into a **personal portfolio project**, showcasing modern web development skills using **React** and **Tailwind CSS**.
 
-The website is **professional, responsive, and user-friendly**, designed to showcase a real estate professional’s online presence.
+The website is **professional, responsive, and user-friendly**, designed to highlight a real estate professional’s online presence.
+
+---
+
+## Live Demo
+You can view the deployed website here: **[Live Demo](https://marci-metzger-real-estate.pages.dev/)**  
 
 ---
 
@@ -12,44 +17,44 @@ The website is **professional, responsive, and user-friendly**, designed to show
 
 ### 1. Header
 - Sticky, responsive navigation with **logo, menu items, and Call button**.
-- Desktop: horizontal nav with hover effects.
+- Desktop: horizontal navigation with hover effects.
 - Mobile: burger menu opens a **full-screen modal** with smooth animations.
-- Automatically closes the mobile menu when resizing to desktop.
+- Mobile menu automatically closes when resizing to desktop.
 
 ### 2. Hero
 - Full-screen background image with gradient overlay.
 - Prominent headline: **MARCI METZGER**.
 - Call-to-action buttons: “Browse Listings” and “Get in Touch”.
 - Smooth scroll to sections on click.
-- Responsive typography and drop shadows for readability.
+- Responsive typography with drop shadows for readability.
 
 ### 3. Search Bar
 - Interactive search form for filtering listings.
 - Filters: Location, Type, Sort By, Bedrooms, Baths, Price Range.
-- Background image with rounded card style for separation.
+- Background image with rounded card design for separation.
 - Responsive grid layout for desktop and mobile.
 
 ### 4. Meet the Realtor
-- Introduction to **Marci Metzger**, the real estate professional.
-- Professional styling, image, and brief biography.
+- Introduction to **Marci Metzger**.
+- Professional styling with image and brief biography.
 
 ### 5. Services
 - Highlights the services provided.
 - Card-based layout for clarity.
-- Interactive hover effects for better UX.
+- Interactive hover effects for improved user experience.
 
 ### 6. Get Sold
 - Section for property selling features or call-to-action.
 - Engaging buttons to contact or list a property.
-- Clear, professional layout.
+- Clean, professional layout.
 
 ### 7. Gallery
 - Image gallery showcasing properties or real estate projects.
 - Responsive image grid with spacing and fade-in animations.
-- Placeholder for dynamic content in future.
+- Placeholder for dynamic content in future versions.
 
 ### 8. Partners
-- Showcase of partner logos in a horizontal line.
+- Showcase of partner logos in a horizontal layout.
 - Fade-in animation on scroll.
 - Even spacing and responsive scaling for all devices.
 
@@ -58,7 +63,7 @@ The website is **professional, responsive, and user-friendly**, designed to show
 - Inputs: First Name, Last Name, Email, Message.
 - Responsive two-column layout on desktop.
 - Call-to-action button with hover effects.
-- Legal disclaimer for Google reCAPTCHA.
+- Legal disclaimer for Google reCAPTCHA included.
 
 ### 10. Directions / Map
 - Embedded map showing office location.
@@ -77,7 +82,7 @@ The website is **professional, responsive, and user-friendly**, designed to show
 - **Tailwind CSS** – utility-first styling for rapid development.
 - **Lucide Icons** – modern vector icons.
 - **React Scroll** – smooth scrolling for single-page navigation.
-- Responsive design for **desktop, tablet, and mobile**.
+- Fully responsive design for **desktop, tablet, and mobile**.
 
 ---
 
