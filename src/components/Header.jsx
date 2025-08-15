@@ -51,7 +51,10 @@ export default function Header() {
             alt="Marci Metzger Homes"
             className="h-10 w-auto"
           />
-          <span className="font-serif text-lg tracking-wide">Marci Metzger Homes</span>
+          {/* Hide on small screens, show on md and above */}
+          <span className="hidden md:inline font-serif text-lg tracking-wide">
+            Marci Metzger Homes
+          </span>
         </Link>
 
         {/* Desktop nav */}
